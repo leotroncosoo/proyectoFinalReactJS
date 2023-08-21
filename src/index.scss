@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.bodyy{
+  background-color: #CACACA;
+}
+
+.navegador{
+  background-color: #878787;
+
+  ul{
+    list-style: none;
+    padding: 0;
+
+    li{
+      text-decoration: none;
+      background-color: #721e1e;
+      border: 1px solid #7a2828;
+      border-radius: 8px;
+      margin: 15px;
+      padding: 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+       :hover{
+        transform: translateY(-2px);
+        box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+       }
+       
+       .letra{
+        color: white;
+        text-decoration: none; 
+        transition: color 0.3s;
+       }
+     
+    }
+  }
+}
+.contenedor{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 50px ;
+  padding: 50px 10px;
+
+  .juegos{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 50px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: white;
+    img{
+      width: 250px;
+    }
+
+  }
+}
+
+
+
+.contenedor-detalle{
+  display: flex; 
+  gap: 100px;
+  justify-content: center;
+  padding: 100px;
+
+  img{
+    border-radius: 30px;
+  }
+  .contenido{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    p{
+      font-size: 30px;
+      color: green;
+    }
+  }
+}
+
+
+//Footer 
+
+.footer{
+  background-color: #202022;
+  display: flex;
+  padding: 50px;
+  justify-content: space-around;
+  align-items: center;
+
+  h2{
+    color: white;
+    font-size: 20px;
+  }
+
+  .footer-descripcion{
+    p{
+      color: white;
+      font-size: 20px;
+    }
+  }
+}
