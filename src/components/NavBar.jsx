@@ -12,7 +12,7 @@ function NavBar() {
             <li><Link to="/plataforma/ps4"className="text-light letra">Ps4</Link></li>
             <li><Link to="/plataforma/nintendo"className="text-light letra">Nintendo Switch</Link></li>
         </ul>
-        <CartWidget />
+        <li><Link to="/carrito"className="text-light letra"><CartWidget/></Link></li>  
     </div>
   )
 }

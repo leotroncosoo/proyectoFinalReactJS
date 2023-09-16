@@ -5,7 +5,6 @@ function ItemListContainer({greeting}) {
 
   return (
     <div>
-
         <ItemList />
     </div>
     
