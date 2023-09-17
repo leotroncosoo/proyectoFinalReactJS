@@ -11,3 +11,4 @@ Carrito de Compras: Nuestra funcionalidad de Carrito de Compras, respaldada por 
 
 Aunque el proyecto está tomando forma, se que aún falta trabajo de estilización para darle un aspecto mas lindo. Estoy trabajando para mejorar la interfaz y garantizar que la experiencia del usuario sea mucho mejor.
 
+Ademas me dejo de funcionar el filtrado de las plataformas, de todas formas entrego el trabajo, estuve complicadisimo para terminarlo como corresponde por temas laborales.., pedi mas dias para entregar en forma pero no recibi ninguna respuesta.., pido mil disculpas por la presentacion del proyecto , pero no me quedo de otra que entregarlo en el estado que mas puedo .., gracias!
