@@ -25,3 +25,5 @@
     {"id":24, "nombre": "Super Mario Odyssey Super Mario Standard Edition Nintendo Switch Físico","plataforma": "nintendo", "imagen": "https://http2.mlstatic.com/D_NQ_NP_958303-MLA40864140097_022020-O.webp",  "stock": 22 ,"precio": 35000},
     {"id":25, "nombre": "Super Smash Bros. Ultimate Standard Edition Nintendo Switch Físico","plataforma": "nintendo", "imagen": "https://http2.mlstatic.com/D_NQ_NP_805062-MLA40861843559_022020-O.webp",  "stock": 16 ,"precio": 35000},
     {"id":26, "nombre": "Yoshi's Crafted World Yoshi Standard Edition Nintendo Switch Físico","plataforma": "nintendo", "imagen": "https://http2.mlstatic.com/D_NQ_NP_887285-MLA44340079815_122020-O.webp", "stock": 14 , "precio": 34999}]
+
+
